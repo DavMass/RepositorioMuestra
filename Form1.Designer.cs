@@ -41,6 +41,7 @@
             this.lblContraseña = new System.Windows.Forms.Label();
             this.txtContraseña = new System.Windows.Forms.TextBox();
             this.btnCentrarComponente = new Bunifu.Framework.UI.BunifuFlatButton();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbxImagen)).BeginInit();
             this.SuspendLayout();
             // 
@@ -259,7 +260,7 @@
             this.btnCentrarComponente.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
             this.btnCentrarComponente.OnHoverTextColor = System.Drawing.Color.White;
             this.btnCentrarComponente.selected = false;
-            this.btnCentrarComponente.Size = new System.Drawing.Size(163, 26);
+            this.btnCentrarComponente.Size = new System.Drawing.Size(214, 26);
             this.btnCentrarComponente.TabIndex = 12;
             this.btnCentrarComponente.Text = "Centrar componentes";
             this.btnCentrarComponente.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -267,11 +268,21 @@
             this.btnCentrarComponente.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCentrarComponente.Click += new System.EventHandler(this.btnCentrarComponente_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(315, 381);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(184, 42);
+            this.button1.TabIndex = 13;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblSexo);
             this.Controls.Add(this.btnCentrarComponente);
             this.Controls.Add(this.lblContraseña);
@@ -306,6 +317,7 @@
         private System.Windows.Forms.Label lblContraseña;
         private System.Windows.Forms.TextBox txtContraseña;
         private Bunifu.Framework.UI.BunifuFlatButton btnCentrarComponente;
+        private System.Windows.Forms.Button button1;
     }
 }
 
