@@ -130,8 +130,8 @@ namespace Muestra1
                 MessageBox.Show("Texto admitido");
                 txtContraseña.Text = GenerarPassword(8);
             }
-                
 
+            panel1.BackColor = Color.Black;
         }
 
         //Metodo para generar una contraseña
