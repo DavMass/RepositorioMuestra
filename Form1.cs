@@ -186,5 +186,10 @@ namespace Muestra1
             MessageBox.Show("Sergio se la come");
               
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Boton 3");
+        }
     }
 }
