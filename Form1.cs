@@ -189,7 +189,8 @@ namespace Muestra1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Boton 3");
+            String a = txtNumero.Text;
+            MessageBox.Show("El número es: "+a);
         }
     }
 }
