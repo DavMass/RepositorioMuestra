@@ -192,5 +192,10 @@ namespace Muestra1
             String a = txtNumero.Text;
             MessageBox.Show("El número es: "+a);
         }
+
+        private void btnMensaje2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Me gusta mucho el pito jajajasjdjad");
+        }
     }
 }
