@@ -179,5 +179,11 @@ namespace Muestra1
             //Asignando la ubicación del componente hijo
             hijo.Location = new System.Drawing.Point(xHijo, hijo.Location.Y);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Sergio se la come");
+                
+        }
     }
 }
