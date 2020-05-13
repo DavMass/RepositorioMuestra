@@ -1,0 +1,65 @@
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Muestra1.exe.config
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Muestra1.exe
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Muestra1.pdb
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.csprojAssemblyReference.cache
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.Form1.resources
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.Properties.Resources.resources
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.csproj.GenerateResource.cache
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.exe
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.pdb
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Npgsql.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Buffers.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Memory.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Text.Json.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.ValueTuple.dll
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Npgsql.pdb
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\Npgsql.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Buffers.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Memory.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Text.Json.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\bin\Debug\System.ValueTuple.xml
+C:\Users\rocke\Desktop\Proyecto muestra\Muestra1\obj\Debug\Muestra1.csproj.CopyComplete
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Muestra1.exe.config
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Muestra1.exe
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Muestra1.pdb
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Npgsql.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Buffers.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Memory.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Text.Json.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.ValueTuple.dll
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Npgsql.pdb
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\Npgsql.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Buffers.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Memory.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Text.Json.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\bin\Debug\System.ValueTuple.xml
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.csprojAssemblyReference.cache
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.Form1.resources
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.Properties.Resources.resources
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.csproj.GenerateResource.cache
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.csproj.CopyComplete
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.exe
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.pdb
+C:\Users\rocke\Desktop\ProyectoMuestra\Muestra1\obj\Debug\Muestra1.csproj.CoreCompileInputs.cache
